@@ -1,4 +1,4 @@
-Weaether Dashboard
+Weather Dashboard
 
 GitHub username at initialization time: Endernaut
 
