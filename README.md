@@ -1,23 +1,21 @@
-Weather Dashboard
+# Weather Dashboard
 
-GitHub username at initialization time: Endernaut
+Interactive Dashboard that displays a graph of the daily minimum temperatures in a particular city within a particular date range.
 
-For next steps, please refer to the instructions provided by your course.
-
-# Install uv
+### Install uv
 pip install uv
 
-# Create virtual environment
+### Create virtual environment
 uv venv
 
-# Activate Virtual Environment (Windows)
+### Activate Virtual Environment (Windows)
 source .venv/Scripts/activate
 
-# Activate Virtual Environment (Mac/Linux)
+### Activate Virtual Environment (Mac/Linux)
 source .venv/bin/activate
 
-# Install requirments.txt
+### Install requirments.txt
 uv pip install -r requirements.txt
 
-# Run Shiny
+### Run Shiny
 shiny run --reload --launch-browser app.py
