@@ -1,4 +1,4 @@
-# CS 498 End-to-End Data Science MP 01 (sp24) repo for NetID: jamesjh4
+Weaether Dashboard
 
 GitHub username at initialization time: Endernaut
 
